@@ -1,0 +1,36 @@
+C:\Users\Mariano\source\repos\TP-Client\bin\Debug\TP-Client.exe.config
+C:\Users\Mariano\source\repos\TP-Client\bin\Debug\TP-Client.exe
+C:\Users\Mariano\source\repos\TP-Client\bin\Debug\TP-Client.pdb
+C:\Users\Mariano\source\repos\TP-Client\obj\Debug\TP-Client.csproj.AssemblyReference.cache
+C:\Users\Mariano\source\repos\TP-Client\obj\Debug\TP_Client.Form1.resources
+C:\Users\Mariano\source\repos\TP-Client\obj\Debug\TP_Client.Properties.Resources.resources
+C:\Users\Mariano\source\repos\TP-Client\obj\Debug\TP-Client.csproj.GenerateResource.cache
+C:\Users\Mariano\source\repos\TP-Client\obj\Debug\TP-Client.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\source\repos\TP-Client\obj\Debug\TP-Client.exe
+C:\Users\Mariano\source\repos\TP-Client\obj\Debug\TP-Client.pdb
+C:\Users\Mariano\source\repos\TP-Client\obj\Debug\TP_Client.TableForm.resources
+C:\Users\Mariano\source\repos\TP-Client\obj\Debug\TP_Client.NuevaTareaForm.resources
+C:\Users\Mariano\source\repos\TP-Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mariano\source\repos\TP-Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mariano\source\repos\TP-Client\obj\Debug\TP-Client.csproj.CopyComplete
+C:\Users\Mariano\source\repos\TP-Client\obj\Debug\TP_Client.DetalleTareaForm.resources
+D:\Proyecto KANBAN\TP-Client\bin\Debug\TP-Client.exe.config
+D:\Proyecto KANBAN\TP-Client\bin\Debug\TP-Client.exe.manifest
+D:\Proyecto KANBAN\TP-Client\bin\Debug\TP-Client.application
+D:\Proyecto KANBAN\TP-Client\bin\Debug\TP-Client.exe
+D:\Proyecto KANBAN\TP-Client\bin\Debug\TP-Client.pdb
+D:\Proyecto KANBAN\TP-Client\bin\Debug\Newtonsoft.Json.dll
+D:\Proyecto KANBAN\TP-Client\bin\Debug\Newtonsoft.Json.xml
+D:\Proyecto KANBAN\TP-Client\obj\Debug\TP-Client.csproj.AssemblyReference.cache
+D:\Proyecto KANBAN\TP-Client\obj\Debug\TP_Client.DetalleTareaForm.resources
+D:\Proyecto KANBAN\TP-Client\obj\Debug\TP_Client.Form1.resources
+D:\Proyecto KANBAN\TP-Client\obj\Debug\TP_Client.NuevaTareaForm.resources
+D:\Proyecto KANBAN\TP-Client\obj\Debug\TP_Client.Properties.Resources.resources
+D:\Proyecto KANBAN\TP-Client\obj\Debug\TP_Client.TableForm.resources
+D:\Proyecto KANBAN\TP-Client\obj\Debug\TP-Client.csproj.GenerateResource.cache
+D:\Proyecto KANBAN\TP-Client\obj\Debug\TP-Client.csproj.CoreCompileInputs.cache
+D:\Proyecto KANBAN\TP-Client\obj\Debug\TP-Client.exe.manifest
+D:\Proyecto KANBAN\TP-Client\obj\Debug\TP-Client.application
+D:\Proyecto KANBAN\TP-Client\obj\Debug\TP-Client.csproj.CopyComplete
+D:\Proyecto KANBAN\TP-Client\obj\Debug\TP-Client.exe
+D:\Proyecto KANBAN\TP-Client\obj\Debug\TP-Client.pdb
